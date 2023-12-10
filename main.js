@@ -18,7 +18,7 @@
 //     let sum = [ ];
 // for (const iterator of arg) {
 //         if (iterator % 2 == 1) {
-//             sum = sum + `${iterator}, `;
+//             sum = sum + `${iterator} `;
 //         }
 //     }
 //     return sum
